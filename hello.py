@@ -1,6 +1,7 @@
 
 def print_hello():
    print("Hi pepole")
+   print("second version")
 
 def main():
     print_hello()       
